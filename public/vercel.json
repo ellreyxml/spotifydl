@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "functions": {
+    "api/spotify.js": {
+      "maxDuration": 60
+    }
+  }
+}
